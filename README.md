@@ -1,1 +1,1 @@
-<h1>Thi is training session</h1>
+<h1>This is a training session</h1>
